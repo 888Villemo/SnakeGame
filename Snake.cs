@@ -181,7 +181,7 @@ namespace SnakeGame
 
                         movement = "DOWN";
 
-                    // ???
+                        break;
 
                     case ConsoleKey.LeftArrow:
 
